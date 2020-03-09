@@ -1,8 +1,8 @@
-Origin: thepapaya
-Label: thepapaya
+Origin: thepapaya's repo
+Label: tweak
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - thepapaya's cydia repo
+Description: thepapaya's cydia repo.
