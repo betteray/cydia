@@ -1,28 +1,49 @@
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
-Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
 Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+
+Package: me.thepapaya.weibointl
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: ray
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/me.thepapaya.weibointl_0.0.1-1_iphoneos-arm.deb
+Size: 6926
+MD5sum: 62965f2b5e8fcafd4541d0b9ca1a90e5
+SHA1: 60838992c641647aa6df4a1c4977f6f088924db8
+SHA256: 41361a40c47ff0848fa5ebdfbd9d675e1a8352312b992440a8e51696aaa6bd91
+Section: Tweaks
+Description: Make WeiboIntl a real DarkMode Look.
+Author: ray
+Depiction: https://thepapaya.me/?p=[me.thepapaya.weibointl]
+Name: weibo.intl++
 
