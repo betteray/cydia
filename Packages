@@ -47,6 +47,23 @@ Author: ray
 Depiction: https://thepapaya.me/cydia/depictions/?p=me.ray.adblock4ios
 Name: ADBlock4iOS
 
+Package: me.thepapaya.newtermplusplus
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: ray
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/me.thepapaya.newtermplusplus_0.0.1-1+debug_iphoneos-arm.deb
+Size: 6044
+MD5sum: 92510cd358bbff473d016c6cf2bd4203
+SHA1: 70fed26a9e6a5a74c71a213224d249c8be677b9b
+SHA256: 817678b4fae3300ed198db6a6f6a20eb9c9a401d1fd9442b46b69af51dd59eb2
+Section: Tweaks
+Description: Make NewTerm nice look!
+Author: ray
+Depiction: https://thepapaya.me/cydia/depictions/?p=me.thepapaya.newtermplusplus
+Name: newtermplusplus
+
 Package: me.thepapaya.weibointl
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
