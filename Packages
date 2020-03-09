@@ -31,36 +31,36 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 Name: Old Package
 
 Package: me.ray.adblock4ios
-Version: 0.0.1-15+debug
+Version: 0.0.1-18+debug
 Architecture: iphoneos-arm
 Maintainer: ray
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/me.ray.adblock4ios_0.0.1-14_iphoneos-arm.deb
-Size: 4782
-MD5sum: 984f4db1387a446c7c709a1e606317a8
-SHA1: 937e36aef3179b8b0100541a97c669bb3bb0265c
-SHA256: 8a2e9b15963347e11ed16a305660d59670b48562e79f7c2d1cb64d5a14a95c01
+Size: 4774
+MD5sum: f2289a0c73fb902248d9a9723dbc3df2
+SHA1: 7f459cfe3337fa0aec42916c1bbc03eb89aafcc9
+SHA256: 0e7f61b20cbacdcc99f12f0e10a864d5abd10a73417fba9f2c1d36434c163149
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: remove some app's ad.
 Author: ray
-Depiction: https://thepapaya.me/cydia?p=[me.ray.adblock4ios]
+Depiction: https://thepapaya.me/cydia/?p=me.ray.adblock4ios
 Name: ADBlock4iOS
 
 Package: me.thepapaya.weibointl
-Version: 0.0.1-2+debug
+Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
 Maintainer: ray
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/me.thepapaya.weibointl_0.0.1-1_iphoneos-arm.deb
-Size: 6932
-MD5sum: 54ea67c5c9793128b3149b9e72088518
-SHA1: 312dd3d6e02bb5253b33530c2ba5d6ae519ca7af
-SHA256: 4638383e4324c6da4be386c21ba5fed735eb3401598d77ec117a8694f98e4cb2
+Size: 6922
+MD5sum: 881a0c89d322868c47bc42af5447ca6b
+SHA1: d504c23c66f6668f964e12ac23baf55dd46a3b01
+SHA256: 7e587730a5854dd326446994638ad539e7007ff25ad0728f7d3418d13f47aaa8
 Section: Tweaks
 Description: Make WeiboIntl a real DarkMode Look.
 Author: ray
-Depiction: https://thepapaya.me/cydia/?p=[me.thepapaya.weibointl]
+Depiction: https://thepapaya.me/cydia/?p=me.thepapaya.weibointl
 Name: weibo.intl++
 
