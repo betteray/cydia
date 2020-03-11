@@ -47,6 +47,22 @@ Author: ray
 Depiction: https://thepapaya.me/cydia/depictions/?p=me.ray.adblock4ios
 Name: ADBlock4iOS
 
+Package: me.thepapaya.fridagadget
+Version: 12.8.14
+Architecture: iphoneos-arm
+Maintainer: ray
+Depends: mobilesubstrate
+Filename: ./debs/me.thepapaya.fridagadget-12.8.14.deb
+Size: 28852006
+MD5sum: 688c87de0e3a737fb2621077d14fdc8f
+SHA1: f1b64422dca75bca9ee9f245a824e970bab94b1b
+SHA256: d24ddd795cadf9480f25a0e69d099b414c9e4e839d97c6c5193106d6d79f715d
+Section: Tweaks
+Description: frida gadget script directory mode for ui-app.
+Author: ray
+Depiction: https://thepapaya.me/cydia/depictions/?p=me.thepapaya.fridagadget
+Name: frida-gadget
+
 Package: me.thepapaya.newtermplusplus
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
