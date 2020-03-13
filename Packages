@@ -97,6 +97,23 @@ Author: ray
 Depiction: https://thepapaya.me/cydia/depictions/?p=me.thepapaya.webserver
 Name: WebServer
 
+Package: me.thepapaya.wechatplusplus
+Version: 0.0.1-11+debug
+Architecture: iphoneos-arm
+Maintainer: ray
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/me.thepapaya.wechatplusplus_0.0.1-11+debug_iphoneos-arm.deb
+Size: 10578
+MD5sum: adb046b74e96308863e1f02073add4ef
+SHA1: d20c8077b5065608ad8c1f748cd5e0f0ccb1c291
+SHA256: aa903386bb4dd15dcda4ae540838311507042e5fbe954a1a6cf14a8f70b58996
+Section: Tweaks
+Description: Make wechat head image flip horizontal to better look.
+Author: ray
+Depiction: https://thepapaya.me/cydia/depictions/?p=me.thepapaya.wechatplusplus
+Name: wechatplusplus
+
 Package: me.thepapaya.weibointl
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
